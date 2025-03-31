@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there! 👋  
 
-<!--
-**junsik0408/junsik0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Park Jun-sik**, a second-year student majoring in **Big Data** at **Korea Polytechnic University, Seoul Gangseo Campus**.  
+I am currently learning and working with various technologies, including:  
 
-Here are some ideas to get you started:
+### 🔧 **Tech Stack**  
+- **Programming Languages:** Java, Python, C, R, SQL, NoSQL (MongoDB)  
+- **Web Technologies:** HTML, CSS, Spring Boot, MyBatis  
+- **Development Tools:** IntelliJ, PyCharm, WebStorm  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 **Interests**  
+I am particularly interested in **Big Data** and **Artificial Intelligence (AI) development**.  
+
+📫 **Feel free to connect with me!**  
